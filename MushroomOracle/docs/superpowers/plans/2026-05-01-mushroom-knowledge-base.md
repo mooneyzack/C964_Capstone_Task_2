@@ -537,7 +537,7 @@ git commit -m "content: create initial fact notes library from existing research
 
 - [ ] **Step 1: Research identification and foraging**
 
-Use web search to gather comprehensive information on:
+Use `/research:deep-dive` to gather comprehensive information on:
 - Spore print technique, colors, and identification value
 - Key morphological features for field ID (cap shape, gill attachment, stipe features, veil remnants, bruising reactions)
 - Dangerous look-alikes for commonly foraged species (death cap / Amanita phalloides, destroying angel / Amanita bicicolor, Galerina marginata, false morels / Gyromitra, Jack O'Lantern / Omphalotus)
@@ -571,7 +571,7 @@ git commit -m "content: add identification and foraging knowledge"
 
 - [ ] **Step 1: Research culinary use**
 
-Use web search to gather comprehensive information on:
+Use `/research:deep-dive` to gather comprehensive information on:
 - Flavor and texture profiles for each cultivated/foraged species (umami intensity, meatiness, nuttiness, seafood-like, etc.)
 - Cooking methods: sauteing, roasting, grilling, braising, raw preparation, duxelles, powdering
 - Preservation: dehydrating, freeze-drying, pickling, fermenting, freezing (blanch vs raw), canning safety
@@ -604,7 +604,7 @@ git commit -m "content: add culinary knowledge and expand species culinary secti
 
 - [ ] **Step 1: Research industrial applications**
 
-Use web search to gather comprehensive information on:
+Use `/research:deep-dive` to gather comprehensive information on:
 - Mycoremediation: oil spill cleanup, heavy metal absorption, pesticide degradation, wastewater treatment, species used (Pleurotus, Trametes, Phanerochaete)
 - Myco-materials: mycelium packaging (Ecovative), mycelium leather (Mylo, Reishi), building insulation, mycelium composites
 - Fungal dyes: species that produce dyes (Cortinarius, Pisolithus, Phaeolus), traditional dyeing techniques, modern applications
@@ -633,7 +633,7 @@ git commit -m "content: add industrial applications knowledge"
 
 - [ ] **Step 1: Research history and cultural context**
 
-Use web search to gather comprehensive information on:
+Use `/research:deep-dive` to gather comprehensive information on:
 - Ethnomycology: R. Gordon Wasson's work, traditional use across cultures (Mazatec, Siberian, Chinese, Japanese, European)
 - Traditional medicine: TCM use of reishi/lingzhi, shiitake, cordyceps; Ayurvedic traditions; European folk medicine
 - Mycophobia vs mycophilia: cultural attitudes toward mushrooms (Anglo-Saxon mycophobia vs Eastern European/Asian mycophilia), historical reasons
@@ -661,7 +661,7 @@ git commit -m "content: add history and ethnomycology knowledge"
 
 - [ ] **Step 1: Research new gourmet species**
 
-Research the following species (web search for each — taxonomy, morphology, habitat, cultivation, culinary use, any medicinal properties):
+Use `/research:deep-dive` to research the following species (taxonomy, morphology, habitat, cultivation, culinary use, any medicinal properties):
 
 1. Pleurotus eryngii (King Oyster / King Trumpet)
 2. Stropharia rugosoannulata (Wine Cap / Garden Giant)
@@ -692,7 +692,7 @@ git commit -m "content: add 8 gourmet species profiles (king oyster, wine cap, t
 
 - [ ] **Step 1: Research dangerous species**
 
-Research the following species (web search — taxonomy, morphology, habitat, toxicology, symptoms, treatment, look-alike confusion risk):
+Use `/research:deep-dive` to research the following species (taxonomy, morphology, habitat, toxicology, symptoms, treatment, look-alike confusion risk):
 
 1. Amanita phalloides (Death Cap)
 2. Amanita bisporigera (Destroying Angel)
@@ -732,7 +732,7 @@ git commit -m "content: add 8 poisonous species profiles with toxicology"
 
 - [ ] **Step 1: Research additional medicinal species**
 
-Research (web search — taxonomy, habitat, bioactive compounds, clinical evidence, cultivation status):
+Use `/research:deep-dive` to research (taxonomy, habitat, bioactive compounds, clinical evidence, cultivation status):
 
 1. Tremella fuciformis (Snow Fungus / Silver Ear)
 2. Phellinus linteus (Meshima / Song Gen)
@@ -742,7 +742,7 @@ Research (web search — taxonomy, habitat, bioactive compounds, clinical eviden
 
 - [ ] **Step 2: Research ecologically significant species**
 
-Research (web search — taxonomy, ecology, distribution, significance):
+Use `/research:deep-dive` to research (taxonomy, ecology, distribution, significance):
 
 6. Armillaria ostoyae (Honey Mushroom — largest organism on Earth)
 7. Pisolithus arhizus (Dyeball — mycorrhizal pioneer)
