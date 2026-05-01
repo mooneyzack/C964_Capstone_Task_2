@@ -25,6 +25,8 @@ last_verified: 2026-05-01
 - **Flavor:** Extremely bitter; odorless to starchy
 - **Blueing reaction:** Extremely intense — immediately and distinctly blue-black throughout all tissues upon damage
 
+*See also: [[Morphological Identification]] (bruising reactions, umbonate cap), [[Spore Prints]] (dark purple-brown print), [[Dangerous Look-Alikes]] (Galerina marginata), [[Foraging Safety]], [[Habitat Guide]] (coastal wood chip habitats)*
+
 ## Biology
 
 Formally described by Stamets & Gartz in 1995. Saprotrophic; causes **[[Wood Decay|white rot]]** (wood whitening observed around mycelial mats). The dense rhizomorphic mycelium binds wood-chip substrates tenaciously.

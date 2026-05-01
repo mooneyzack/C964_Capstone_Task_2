@@ -25,6 +25,8 @@ last_verified: 2026-05-01
 - **Stipe:** Variable; often present, lateral, shiny, same color as cap
 - **Spore print:** Brown; spores truncate-ellipsoid with double wall; outer wall smooth, inner wall (endospore) heavily ornamented with columns
 
+*See also: [[Morphological Identification]] (bracket/polypore form, pore surface), [[Spore Prints]] (brown spore print), [[Habitat Guide]] (hardwood deadwood and base habitats)*
+
 ## Biology
 
 Saprotrophic and weakly parasitic; causes [[Wood Decay|white rot]] in host wood. Wild specimens are rare; the vast majority of commercial material is cultivated.

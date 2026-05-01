@@ -27,6 +27,8 @@ last_verified: 2026-05-01
 
 No other common mushroom looks quite like *H. erinaceus* — the cascading white spines are diagnostic.
 
+*See also: [[Morphological Identification]] (teeth/spine hymenium), [[Spore Prints]] (white spore print, amyloid spores), [[Foraging Safety]], [[Habitat Guide]] (deadwood, hardwood associations)*
+
 ## Biology
 
 [[Wood Decay|White-rot]] saprotroph. Causes **white heart rot** in host trees. Occurs in late summer and autumn on wounds of living trees and dead wood. Both saprotrophic and opportunistically parasitic. Originally described by Bulliard; transferred to *Hericium* by Persoon in 1797.

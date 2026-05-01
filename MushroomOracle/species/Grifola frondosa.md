@@ -24,6 +24,8 @@ last_verified: 2026-05-01
 - **Flesh:** White; firm; mild flavor
 - **Spore print:** White
 
+*See also: [[Morphological Identification]] (pore surface, compound polypore form), [[Spore Prints]] (white spore print), [[Foraging Safety]], [[Habitat Guide]] (deciduous forest, oak base)*
+
 The name "maitake" (舞茸) means "dancing mushroom" in Japanese — said to describe the excitement of foragers upon finding it, or the overlapping frond-like caps resembling a dancing butterfly.
 
 ## Biology

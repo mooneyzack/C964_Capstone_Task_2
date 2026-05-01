@@ -24,6 +24,8 @@ last_verified: 2026-05-01
 
 The bright orange club emerging from a buried insect host is highly distinctive.
 
+*See also: [[Morphological Identification]] (context-based ID — entomopathogenic substrate), [[Habitat Guide]] (soil and insect hosts in temperate forest)*
+
 ## Biology
 
 *Cordyceps militaris* is an **entomopathogenic** (insect-killing) fungus. Life cycle:

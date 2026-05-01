@@ -26,6 +26,8 @@ last_verified: 2026-05-01
 
 The bright sulphur-yellow to orange coloration of fresh specimens is highly distinctive and difficult to misidentify.
 
+*See also: [[Morphological Identification]] (pore surface, bracket form), [[Spore Prints]] (white spore print), [[Foraging Safety]] (beginner-safe species with cautions), [[Habitat Guide]] (deadwood and living tree habitats)*
+
 ## Biology
 
 **Taxonomy note:** A 2017 molecular study identified at least **17 distinct species** within the former *L. sulphureus* aggregate worldwide. What constitutes true *L. sulphureus* may be restricted to Europe or eastern North America. The *L. sulphureus* species complex includes:

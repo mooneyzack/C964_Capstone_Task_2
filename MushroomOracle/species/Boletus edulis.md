@@ -23,6 +23,8 @@ last_verified: 2026-05-01
 - **Flesh:** White; thick; **firm when young, becoming soft-spongy with age**; **does not change color when cut** (critical — no blue, red, or other color changes)
 - **Spore print:** Olive-brown; spores spindle-shaped, 12–17 × 5–7 μm
 
+*See also: [[Morphological Identification]] (reticulate stipe, pores vs. gills, bruising), [[Spore Prints]] (olive-brown spore print), [[Dangerous Look-Alikes]], [[Foraging Safety]], [[Habitat Guide]] (deciduous and conifer forest associations)*
+
 **[[Dangerous Look-Alikes]]:**
 - *Boletus satanas* (Satan's bolete): **poisonous**; cap white to gray; pores red; stipe red; flesh **turns blue immediately when cut** — the blue staining is the key danger signal for boletes
 - *Tylopilus felleus* (bitter bolete): resembles porcini but flesh is intensely bitter; pores pink at maturity; reticulation more prominent and darker

@@ -25,6 +25,8 @@ last_verified: 2026-05-01
 - **Annulus:** White; superior (near cap); membranous; may become pendulous or flaccid with age
 - **Smell:** Faint, mild earthiness; not distinctive
 
+*See also: [[Morphological Identification]] (volva, annulus, warts), [[Spore Prints]] (white spore print), [[Dangerous Look-Alikes]], [[Foraging Safety]], [[Habitat Guide]] (conifer forest associations)*
+
 **Type species** of the genus *Amanita*.
 
 **Varieties/subspecies (molecular phylogenetics reveals a species complex):**

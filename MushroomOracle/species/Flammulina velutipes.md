@@ -18,6 +18,8 @@ last_verified: 2026-05-01
 
 ## Identification
 
+*See also: [[Morphological Identification]] (stipe surface texture, hygrophanous cap), [[Spore Prints]] (white spore print), [[Dangerous Look-Alikes]] (Galerina marginata comparison), [[Habitat Guide]] (deadwood, cold-season fruiting)*
+
 **Wild Morphology:**
 - **Cap:** 2–10 cm; orange-brown to honey-yellow; slimy/viscid when moist; convex to flat
 - **Gills:** White to cream; adnate to slightly decurrent; moderately crowded

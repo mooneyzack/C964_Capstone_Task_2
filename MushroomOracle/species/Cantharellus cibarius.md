@@ -25,6 +25,8 @@ last_verified: 2026-05-01
 - **Aroma:** Characteristically fruity, reminiscent of apricots (due to 1-octen-3-ol and other volatile compounds)
 - **Taste:** Mildly peppery
 
+*See also: [[Morphological Identification]] (false gills vs. true gills), [[Spore Prints]], [[Dangerous Look-Alikes]] (jack-o'-lantern comparison), [[Habitat Guide]] (deciduous forest associations)*
+
 **Taxonomy note:** Molecular studies have demonstrated that what was historically called *C. cibarius* in North America represents multiple distinct species: *C. formosus* (Pacific golden chanterelle), *C. cascadensis*, *C. californicus*, *C. enelensis*, and others. True *C. cibarius* sensu stricto is now considered a European species.
 
 ## Biology

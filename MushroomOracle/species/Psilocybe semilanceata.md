@@ -25,6 +25,8 @@ last_verified: 2026-05-01
 
 The conical cap with pointed papilla is the most distinctive field character — it has been compared to the Phrygian cap of French Revolutionary iconography, hence "liberty cap."
 
+*See also: [[Morphological Identification]] (campanulate cap shape, hygrophanous surface, bruising), [[Spore Prints]] (dark purple-brown print), [[Dangerous Look-Alikes]] (Galerina marginata), [[Foraging Safety]], [[Habitat Guide]] (grassland habitats)*
+
 **Nomenclatorial note:** Designated as the **type species** of the genus *Psilocybe* in 2010 during taxonomic revision that separated hallucinogenic from non-hallucinogenic species (moved non-hallucinogenic species to *Deconica*).
 
 **[[Dangerous Look-Alikes]]:**

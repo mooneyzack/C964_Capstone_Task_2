@@ -31,6 +31,8 @@ last_verified: 2026-05-01
 
 The host tree is almost always a living birch (*Betula*) in boreal or temperate forest.
 
+*See also: [[Morphological Identification]] (conk/polypore form, substrate), [[Habitat Guide]] (birch forest habitats)*
+
 ## Biology
 
 Parasitic **[[Wood Decay|white-rot]]** fungus; causes **white heart rot** that spreads progressively through the heartwood of infected birch. The sclerotium develops over **5–10 years** before the tree dies. After tree death, the true fruiting body forms beneath the bark and the tree eventually collapses.

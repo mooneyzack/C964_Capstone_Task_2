@@ -27,6 +27,8 @@ The Tibetan name **yartsa gunbu** (གཡར་རྩྭ་དགུན་འབ
 
 **IUCN Status:** Vulnerable — habitat loss, climate change at high elevation, and over-harvesting are serious threats.
 
+*See also: [[Morphological Identification]] (context-based ID — insect host, stroma), [[Habitat Guide]] (high-altitude grassland and alpine habitats)*
+
 ## Biology
 
 **Full scientific name:** *Ophiocordyceps sinensis* (Berk.) G.H.Sung, J.M.Sung, Hywel-Jones & Spatafora, 2007  

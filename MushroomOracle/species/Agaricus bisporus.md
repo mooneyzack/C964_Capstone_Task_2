@@ -23,6 +23,8 @@ last_verified: 2026-05-01
 - **Spore print:** Chocolate brown; spores 5–7.5 × 4–5 μm
 - **Flesh:** White; does not change color when cut (distinguishing from the toxic *A. xanthodermus*, which turns chrome-yellow at stipe base)
 
+*See also: [[Morphological Identification]] (gill color change, bruising reactions), [[Spore Prints]] (chocolate-brown spore print), [[Dangerous Look-Alikes]] (death cap and destroying angel comparison), [[Foraging Safety]], [[Habitat Guide]] (urban and grassland habitats)*
+
 **Unique genetic character:** **Basidiospores mostly 2-spored basidia** (the *bisporus* epithet) unlike the typical 4-spored basidia of most Agaricales; this creates mostly diploid spores, simplifying genetics and enabling **secondary homothallism** (self-fertility).
 
 **All three market forms are the same species:**

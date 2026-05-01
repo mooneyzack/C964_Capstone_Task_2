@@ -25,6 +25,8 @@ last_verified: 2026-05-01
 - **Flesh:** White; very thin; tough and leathery (inedible as food due to texture)
 - **Spore print:** White; spores cylindrical, 4.5–8 × 1.5–2.5 μm
 
+*See also: [[Morphological Identification]] (pore surface, bracket form), [[Spore Prints]] (white spore print), [[Habitat Guide]] (deadwood habitats, year-round)*
+
 **Synonym:** *Coriolus versicolor* (the name appears in older medical literature for PSK studies)
 
 **[[Dangerous Look-Alikes]]:**

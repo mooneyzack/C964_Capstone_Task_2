@@ -24,6 +24,8 @@ last_verified: 2026-05-01
 - **Spore print:** White
 - **Flesh:** White; firm; distinctive umami-rich aroma
 
+*See also: [[Morphological Identification]] (gill characters, ring zone), [[Spore Prints]] (white spore print), [[Foraging Safety]], [[Habitat Guide]] (deadwood habitats)*
+
 ## Biology
 
 Saprotrophic [[Wood Decay|white-rot]] decomposer. Second most cultivated mushroom in the world (~22% of global production after *[[Agaricus bisporus]]* at ~38%). Traditional cultivation in Japan and China involves inoculating cut hardwood logs; modern production uses supplemented sawdust blocks.

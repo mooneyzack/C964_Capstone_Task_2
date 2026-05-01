@@ -24,6 +24,8 @@ last_verified: 2026-05-01
 - **Flesh:** White; firm when young; meaty texture
 - **Smell and taste:** Mild, pleasant, slightly anise-like
 
+*See also: [[Morphological Identification]] (decurrent gills, lateral stipe), [[Spore Prints]] (white to lilac-gray print), [[Foraging Safety]] (beginner-safe species), [[Habitat Guide]] (deadwood habitats)*
+
 ## Biology
 
 Primary saprotroph, **[[Wood Decay|white-rot]]** decomposer. Produces the full complement of lignocellulose-degrading enzymes (laccases, peroxidases, cellulases). Also **nematophagous** — produces toxocysts containing 3-octanone that paralyze and kill nematodes, which the mycelium then colonizes as a nitrogen source.

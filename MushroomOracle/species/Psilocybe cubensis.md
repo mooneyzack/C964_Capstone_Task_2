@@ -28,6 +28,8 @@ last_verified: 2026-05-01
 
 The blue bruising reaction, dark purplish-brown spore print, and presence of an annulus distinguish *P. cubensis* from most look-alikes.
 
+*See also: [[Morphological Identification]] (bruising reactions, spore print color), [[Spore Prints]] (purple-brown print), [[Dangerous Look-Alikes]] (Galerina marginata comparison), [[Foraging Safety]], [[Habitat Guide]] (dung substrate associations)*
+
 **[[Dangerous Look-Alikes]]:**
 - *Galerina marginata*: **deadly poisonous**; contains amatoxins; grows on wood (not dung); white/cream spore print maturing to rusty brown; NO blue bruising; ring present but more fragile
 - *Pholiota* species: on wood; rusty-brown spore print; no blue bruising

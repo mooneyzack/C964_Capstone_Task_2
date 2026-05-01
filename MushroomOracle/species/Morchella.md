@@ -23,6 +23,8 @@ last_verified: 2026-05-01
 - **Spore print:** Cream to ochre; ascospores ellipsoid, smooth, 17–25 × 10–15 μm
 - **Smell:** Pleasant earthy-mushroom; nutty
 
+*See also: [[Morphological Identification]] (hollow vs. chambered interior), [[Spore Prints]], [[Dangerous Look-Alikes]] (false morel comparison), [[Foraging Safety]], [[Habitat Guide]] (spring woodland habitats)*
+
 **[[Dangerous Look-Alikes]]:**
 - *Gyromitra esculenta* (false morel, brain mushroom): cap is brain-like or saddle-shaped, NOT honeycomb-pitted; stem is NOT fully hollow (chambered); contains gyromitrin (metabolized to monomethylhydrazine, a toxin); potentially deadly
 - *Verpa bohemica*: thimble morel; cap only attached at top of stipe, not at base margin; cap hangs free; considered by some to be weakly toxic
