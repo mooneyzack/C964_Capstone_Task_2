@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mushroom-oracle": {
+      "command": "pnpm",
+      "args": ["serve"],
+      "cwd": "C:\\Users\\Moonman\\mushroom-oracle"
+    }
+  }
+}
