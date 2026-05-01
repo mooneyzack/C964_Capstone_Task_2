@@ -277,6 +277,82 @@ See the table above — same distinguishing features apply. Additionally: *A. ca
 
 ---
 
+## 7. Deadly Webcap (*Cortinarius rubellus* / *C. orellanus*) and Its Look-Alikes
+
+### The Deadly Species
+
+[[Cortinarius rubellus]] — **Deadly Webcap**
+[[Cortinarius orellanus]] — **Fool's Webcap** (equally toxic; more southern distribution in Europe)
+
+- **Cap:** 3–8 cm; reddish-brown to tawny-orange; convex to broadly umbonate (central raised bump); surface dry, silky-fibrous
+- **Gills:** Rust-brown to cinnamon; attached; widely spaced
+- **Spore print:** **Rust-brown** — characteristic of all *Cortinarius*
+- **Cortina:** The **defining genus character**: young fresh specimens have a **cobweb-like fibrous veil (cortina)** stretching between cap margin and stipe; this veil collapses and disappears with age and rain, leaving rust-brown spore deposits on the upper stipe as a residual trace
+- **Stipe:** Reddish-brown to orange-brown; fibrous; no ring (the cortina is not a ring)
+- **Habitat:** Coniferous and mixed forests; ectomycorrhizal; acidic soils
+
+**Toxicology:** Contains **orellanine** — a bipyridyl nephrotoxin that selectively destroys renal proximal tubule cells through free radical damage. The result is progressive, irreversible renal interstitial fibrosis. The hallmark danger is the **extreme latency: symptoms may not appear for 2 to 14 days** after ingestion — by which time irreversible kidney damage has already occurred. End-stage renal failure requiring dialysis or kidney transplant is a common outcome in severe cases. Fatality rate is low with modern renal care, but permanent kidney damage is frequent. Orellanine is heat-stable; cooking does not destroy it.
+
+**Symptom timeline:**
+- Days 0–14: **No symptoms** (latent phase)
+- Days 3–14: Gradually increasing nausea, headache, fatigue, chills; often mistaken for flu
+- Weeks 1–4: Thirst, increased urination, flank pain; rising creatinine and BUN
+- Weeks 2–8: Oliguria; uremia; progressive renal failure; dialysis required in severe cases
+- Weeks to months: End-stage renal failure; transplant consideration
+
+### Look-Alike 1: Chanterelle (*Cantharellus cibarius*)
+
+**Why they are confused:** Both are orange-brown autumn forest mushrooms. Less experienced foragers may not notice the structural differences.
+
+| Character | *C. rubellus* (DEADLY) | *Cantharellus cibarius* (edible) |
+|---|---|---|
+| Hymenium | **True gills**: bladed, rust-brown | **False gills**: forking blunt ridges, pale yellow-orange |
+| Spore print | **Rust-brown** | Pale cream to white |
+| Cortina | **Present** on young specimens | **Absent** — no veil of any kind |
+| Cap shape | Umbonate (central raised bump); conical | Funnel-shaped; no central umbo |
+| Smell | Faint, unremarkable | **Fruity, apricot-like** — quite distinctive |
+
+**Key tests:** Spore print (rust-brown vs. pale cream); examine for cortina or its rust-spore residue on the stipe; check gill structure (bladed vs. blunt ridges).
+
+### Look-Alike 2: Various Edible Brown Autumn Mushrooms
+
+Because *Cortinarius* is an enormous genus (1,000+ species) and because the rust-brown color and fibrous appearance are shared with many edible species, the fundamental safety rule is:
+
+**Any mushroom with a rust-brown spore print, a fibrous cortina or cortina scar on the stipe, and no ring, growing in forest soil, is potentially a *Cortinarius* and should not be consumed without expert species-level identification.** The consequences of eating an orellanine-bearing *Cortinarius* — irreversible kidney failure — are too severe to accept any doubt.
+
+---
+
+## 8. Poison Fire Coral (*Podostroma cornu-damae*) — East Asian Context
+
+### The Deadly Species
+
+[[Podostroma cornu-damae]] — **Poison Fire Coral**
+
+- **Fruiting body:** 3–10 cm tall; **brilliant scarlet to orange-red**; unbranched or sparsely branched **finger-like projections** (stipitate stroma) arising from a pale fleshy base; firm, waxy texture
+- **Habitat:** Dead hardwood trees and woody debris in humid East Asian forests; rare
+- **Range:** Japan, Korea, China; primarily East Asian temperate forests
+
+**Toxicology:** Contains **trichothecene mycotoxins** (primarily satratoxin H and roridin E) — macrocyclic trichothecenes that inhibit protein synthesis at the ribosomal level, cause direct mucosal damage, and suppress bone marrow function. Responsible for documented fatal poisonings in Japan and Korea. Produces a multi-system toxidrome: gastrointestinal illness (early), followed by skin desquamation (peeling), neurological symptoms (numbness, tingling), severe bone marrow suppression (pancytopenia — loss of white blood cells, platelets, and red blood cells), and ultimately multi-organ failure. Fatalities typically occur within 1–3 weeks. No antidote. Not relevant to North American or European foragers but important for East Asian contexts.
+
+### Look-Alike 1: *Cordyceps militaris* (Orange Caterpillar Club)
+
+**Why they are confused:** Both are brightly colored orange-red finger-like fungi. *Cordyceps militaris* is edible and valued in traditional medicine.
+
+| Character | *P. cornu-damae* (DEADLY) | *Cordyceps militaris* (edible) |
+|---|---|---|
+| Origin point | **Grows from dead wood** (logs, stumps) | **Grows from insect pupa/larva in soil** — host insect visible at base |
+| Base | Pale fleshy stroma from wood | Parasitized insect body |
+| Color | **Brilliant scarlet/red** | Orange to orange-red (typically less saturated) |
+| Habitat | Dead hardwood trees | Soil where insects pupate |
+
+**Key test:** Examine the base. If it arises from a recognizable insect body in soil, it is *Cordyceps*. If it arises from wood, treat it as *Podostroma*.
+
+### Look-Alike 2: Unverified Traditional Herbal Preparations
+
+Several Japanese and Korean poisoning cases involved dried or processed *Podostroma* material mistaken for beneficial "red" medicinal fungi or traditional herbal preparations. The red color is associated in East Asian herbal traditions with beneficial fungi (e.g., *Ganoderma*/reishi). Any unverified red finger-like fungal material from East Asia should be treated with extreme caution.
+
+---
+
 ## General Warnings
 
 1. **Do not rely on color alone.** Color varies within species and with age, drying, cooking, and ambient light. The green-spored parasol can look pure white when young.
