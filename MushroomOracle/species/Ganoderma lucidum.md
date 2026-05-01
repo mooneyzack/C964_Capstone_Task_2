@@ -51,6 +51,38 @@ Commercially cultivated on hardwood sawdust blocks, logs, or inoculated hardwood
 
 **Product quality warning:** Analysis of 11 commercial samples showed triterpene content from **undetectable to 7.8%** and polysaccharides from **1.1–5.8%**. Standardized extracts with verified marker compounds are essential for medicinal use.
 
+### Species-Specific Health Research
+
+**Immune modulation and cancer adjunct:**
+
+- **2016 Cochrane Systematic Review (Jin et al.):** 5 RCTs, N=373 patients. Results:
+  - Tumor response rate: RR 1.50 (95% CI 0.90–2.51) — positive but confidence interval crosses 1.0
+  - CD3 T-cells: +3.91% (95% CI 1.92–5.90%)
+  - CD4 T-cells: +3.05% (95% CI 1.00–5.11%)
+  - CD8 T-cells: +2.02% (95% CI 0.21–3.84%)
+  - Karnofsky quality of life score: RR 2.51 (95% CI 1.86–3.40) — statistically significant
+  - No long-term survival data available
+  - Adverse events: minor nausea and insomnia in one study; no hepatological or hematological toxicity
+  - Critical limitation: All studies involved Chinese populations only; generalizability uncertain
+- Reishi should be considered as a possible adjunct to conventional cancer treatment for immune support and quality of life — not a replacement.
+
+**Sleep:**
+- *Ganoderma* extract potentiates pentobarbital-induced sleep via **GABAergic mechanism** (increases GABA availability in parabrachial nucleus — a sleep-regulation brain region)
+- Adenosine in reishi contributes to sleep-wake regulation via prostaglandin D2-induced sleep pathway
+- Serotonin-hypothalamic pathway: *G. lucidum* extract increases hypothalamic 5-HT, contributing to sedation
+- Wang & Wang 2022 study: 60 chronic insomnia patients; significant improvements in sleep onset time and total sleep duration
+- Alzheimer's model study (2024, Frontiers in Pharmacology): Ganoderma spore extract improved sleep disturbances in sporadic AD rat model
+- Human evidence for sleep: classified as "promising but preliminary" in comprehensive reviews
+
+**Adaptogenic/stress effects:**
+- Classified as an **adaptogen** (substance that non-specifically increases resistance to stress)
+- Contains ganoderic acids that modulate cortisol metabolism via inhibition of **11β-hydroxysteroid dehydrogenase**
+- Documented reduction of neurotransmitter excitotoxicity under stress conditions in preclinical models
+
+See [[Terpenoids and Triterpenoids]] for full detail on ganoderic acid mechanisms.
+See [[Safety and Contraindications]] for CYP3A4 inhibition and anticoagulant interactions.
+See [[Extraction Methods]] — dual extraction (hot water + alcohol) is strongly recommended for reishi.
+
 ## Culinary
 
 Not typically used as a food due to extremely bitter taste (from triterpenes) and woody, tough texture. Primarily consumed as:

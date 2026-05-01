@@ -36,10 +36,38 @@ Cultivated on hardwood substrates — traditionally oak logs, now predominantly 
 
 ## Bioactive Compounds
 
-- **Lentinan**: a β-1,3/1,6-[[Beta-Glucans|glucan]] with documented immunomodulatory and antitumor activity; **approved as an adjuvant cancer therapy in Japan**
-- **Eritadenine**: hypocholesterolemic effects; reduces serum cholesterol levels
+- **Lentinan**: a β-1,3/1,6-[[Beta-Glucans|glucan]] with documented immunomodulatory and antitumor activity; **approved as an adjuvant cancer therapy in Japan since 1985** (Ajinomoto Corp)
+- **Eritadenine**: hypocholesterolemic effects; interferes with cholesterol metabolism by interfering with sphingolipid metabolism and VLDL/LDL secretion; unique to shiitake
 - **AHCC (Active Hexose Correlated Compound)**: a proprietary extract studied for immune enhancement
 - **Lenthionine**: sulfur compound responsible for the characteristic shiitake aroma
+- **[[Ergothioneine]]**: ~1.0 mg/g DW — meaningful dietary source (see [[Nutritional Profiles]])
+
+### Species-Specific Health Research
+
+**Lentinan (cancer adjunct therapy):**
+- IV lentinan (1–1.5 mg/day for 2–8 weeks) + chemotherapy vs. chemotherapy alone: **significantly prolonged survival** in meta-analysis of **650 advanced gastric cancer patients**
+- Lung cancer: **56% vs. 43.3%** improved response rates with lentinan adjunct
+- Shiitake holds the **#1 position among 26 edible and medicinal mushrooms** tested for HMG-CoA reductase inhibitory activity (the same enzyme targeted by statin drugs)
+
+**Cardiovascular health:**
+- Eritadenine (unique shiitake compound): interferes with cholesterol metabolism via sphingolipid metabolism and VLDL/LDL secretion inhibition
+- Mechanism of cholesterol reduction: beta-glucans form viscous gel in intestine trapping dietary cholesterol and bile acids → reduced absorption → increased fecal cholesterol excretion
+- Clinical RCT (2021, *International Journal of Medicinal Mushrooms*): shiitake bars consumed by subjects with borderline-high cholesterol reduced triglycerides by ~10% at 66 days; also increased endogenous glutathione and reduced lipid peroxidation
+- Conflicting evidence: One 8-week intervention found no significant differences in lipid parameters vs. placebo, highlighting the need for standardized protocols
+
+**Immune function:**
+- A Cochrane-registered RCT (Dai et al., 2015): Healthy young adults consuming shiitake mushrooms daily for 4 weeks showed significantly improved immunity markers including:
+  - Proliferation of gamma-delta T-cells and NK cells
+  - Increased secretory IgA
+  - Decreased CRP (anti-inflammatory)
+  - Improved cytokine profile
+
+**Gut microbiome:**
+- Modulation of human intestinal microbiota in clinical trial by beta-D-glucan-enriched shiitake extract (PMC-indexed, 2021): significant increases in beneficial bacterial populations
+
+See [[Beta-Glucans]] for lentinan mechanism and full clinical context.
+See [[Safety and Contraindications]] for shiitake dermatitis and antiplatelet interactions.
+See [[Extraction Methods]] — hot water extraction captures lentinan and eritadenine.
 
 ## Culinary
 

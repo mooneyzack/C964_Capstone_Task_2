@@ -49,6 +49,36 @@ Can be cultivated on [[Substrates|hardwood sawdust]] or logs. Grows readily in l
 
 **PSK is among the best-studied mushroom-derived pharmaceuticals in the world**, with multiple large-scale randomized controlled trials in Japan demonstrating survival benefit as an adjuvant to chemotherapy in gastric and colorectal cancer. PSP has similar evidence from Chinese clinical trials.
 
+### Species-Specific Health Research
+
+**PSK (Polysaccharide-K / Krestin) and PSP (Polysaccharide Peptide):**
+- PSK is a protein-bound polysaccharide extract from Turkey Tail; approved as a **prescription drug adjunct to cancer chemotherapy in Japan since 1977**
+- PSP is a related but distinct protein-polysaccharide; developed in China
+- Both activate immune cells via Dectin-1, TLR2/4, and CR3 pathways, with particularly strong NK cell and macrophage stimulation
+
+**Cancer clinical evidence:**
+
+*Gastric and colorectal cancer (PSK):*
+- Multiple Japanese RCTs demonstrate significantly improved **5-year survival rates** when PSK is added to chemotherapy for Stage I–III colorectal and gastric cancer (typically 3g PSK/day oral)
+- Meta-analyses of these trials show consistent benefit in Eastern (Japanese/Chinese) populations
+
+*Breast cancer — the FDA-supported trial:*
+- A pilot study (Uchino, Tokunaga et al.; funded in part by NIH/NCI) found improved immune reconstitution in Stage I–III breast cancer patients who received Turkey Tail as an immune supplement following conventional treatment
+- Specifically: neutrophil, NK cell, and CD8+ T-cell counts recovered faster in the Turkey Tail group
+- The trial was a direct result of FDA grant following a **2012 TEDx talk by Paul Stamets** — the FDA funded a formal Phase 1 dose-finding trial (NCT01857895) at UCSF
+
+*Lung cancer (PSP):*
+- PSP in conjunction with chemotherapy showed benefits in advanced non-small cell lung cancer (NSCLC) patients
+
+**Gut microbiome:**
+- A landmark 2014 clinical trial (Pallav et al., *Gut Microbes*): PSP from *T. versicolor* vs. amoxicillin in healthy volunteers
+- PSP produced "clear and consistent microbiome changes consistent with **prebiotic activity**" — increased *Lactobacillus* and *Bifidobacterium* while significantly inhibiting Clostridiales
+- Amoxicillin disrupted microbiome; PSP was definitively prebiotic with no dysbiotic effects
+
+See [[Beta-Glucans]] for full mechanism of PSK/PSP receptor activity.
+See [[Safety and Contraindications]] for immunosuppressant interactions and chemotherapy caution.
+See [[Extraction Methods]] — hot water extraction is typically sufficient for PSK/PSP.
+
 ## Culinary
 
 Turkey tail is too tough and leathery to eat as food. Traditionally consumed as a decoction (simmered in water for 20–60 minutes), as a tea, or as an extract. The tea has a mild, earthy flavor. Commercial preparations include capsules, powders, and liquid extracts.

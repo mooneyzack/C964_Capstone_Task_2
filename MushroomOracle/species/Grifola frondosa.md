@@ -42,7 +42,32 @@ Cultivated on [[Substrates|oak sawdust]] and woodchip blocks. More difficult to 
 - **MZF fraction**: polysaccharide activating macrophage proliferation, elevating IL-12, IL-2, IFN-γ, TNF-α, and enhancing NK cells and cytotoxic T lymphocytes
 - **Grifolin**: reported anticancer activity
 - **D-fraction**: widely studied [[Beta-Glucans|beta-glucan]] extract; several clinical trials for cancer immunotherapy adjuvant use
+- **MD-fraction**: highly purified, concentrated version of D-fraction
 - **SX-fraction**: studied for blood sugar regulation and insulin sensitivity
+- At least **47 bioactive polysaccharides** have been characterized in *G. frondosa*
+
+### Species-Specific Health Research
+
+**D-fraction and key fractions:**
+- D-fraction: a specific beta-glucan fraction isolated and characterized by Dr. **Hiroaki Nanba** at Kobe Pharmaceutical University in the 1990s; highly active at stimulating NK cells, macrophages, and T-cells
+- SX-fraction: a specific alpha-glucan-containing fraction specifically developed for blood sugar research
+- MD-fraction: a highly purified, concentrated version of D-fraction
+
+**Immune and cancer:**
+- D-fraction activates macrophages, NK cells, and T-cells; increases production of interleukin-1 (IL-1), superoxide anion, and lymphokines
+- **Phase I/II trial at Memorial Sloan Kettering Cancer Center** (Deng et al., 2009, *J. Cancer Res. Clin. Oncol.*): maitake D-fraction plus interferon-beta in breast cancer patients produced 11–29% response rate, with immunological parameters improved
+
+**Blood sugar and insulin resistance:**
+- SX-fraction restores insulin signaling in insulin-resistant muscle cells through Akt pathway activation, increasing glucose uptake
+- Small pilot: 7 adults with type 2 diabetes added SX-fraction for 2–4 weeks while continuing oral medications — all seven showed significant reductions in fasting glucose (no control group)
+- Animal studies (GF5000): polysaccharides significantly lower fasting serum glucose and insulin resistance index in diabetic rats via modulation of gut microbiota composition
+- Earlier PubMed-indexed animal studies (Kubo & Nanba, 1994; Konno et al., 2001): confirmed hypoglycemic activity through alpha-glucosidase inhibition and insulin sensitization mechanisms
+
+**Summary:** Maitake has the most developed clinical evidence base of any medicinal mushroom for **blood sugar regulation**, though trials remain small and most lack long-term follow-up.
+
+See [[Beta-Glucans]] for D-fraction and SX-fraction mechanism details.
+See [[Safety and Contraindications]] for hypoglycemia risk with diabetes medications.
+See [[Extraction Methods]] — hot water extraction is typically sufficient for maitake polysaccharides.
 
 ## Culinary
 

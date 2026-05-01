@@ -46,12 +46,46 @@ Contains cordycepin (which *O. sinensis* does NOT, contrary to historical claims
 
 ## Bioactive Compounds
 
-- **Cordycepin (3'-deoxyadenosine)**: first isolated in 1950; a nucleoside analog of adenosine; inhibits mRNA polyadenylation, thus blocking protein synthesis in target cells; antitumor, anti-inflammatory, antidiabetic, antimicrobial properties; produced via the Cns1–Cns4 gene cluster
+- **[[Cordycepin]] (3'-deoxyadenosine)**: first isolated in 1950; a nucleoside analog of adenosine; inhibits mRNA polyadenylation, thus blocking protein synthesis in target cells; antitumor, anti-inflammatory, antidiabetic, antimicrobial properties; produced via the Cns1–Cns4 gene cluster
 - **Adenosine**: vasodilatory, anti-inflammatory
 - **D-mannitol (cordycepic acid)**: diuretic, bronchial-dilation
 - **Polysaccharides**: immunomodulatory [[Beta-Glucans|beta-glucans]]
 - **Ergosterol**: vitamin D₂ precursor
 - **Carotenoids**: responsible for orange color; antioxidant
+
+### Species-Specific Health Research
+
+**Athletic performance:**
+
+*Key RCT (Hirsch et al., 2017, PMC5236007):*
+- Design: 28 participants, double-blind, randomized, placebo-controlled
+- Intervention: **4g/day** mushroom blend (*C. militaris*) vs. maltodextrin
+- 3-week results: VO₂max improved **+4.8 ml·kg⁻¹·min⁻¹** in mushroom group (p=0.042) vs. +0.9 ml·kg⁻¹·min⁻¹ in placebo
+- 1-week results: No significant difference
+- Conclusion: Consistent 4g/day supplementation over 3 weeks significantly improved maximal oxygen consumption and exercise tolerance
+
+*Older adults RCT (Chen et al., Cs-4 extract):*
+- Double-blind, placebo-controlled trial in healthy older subjects
+- Cs-4 (fermented *C. sinensis* extract) improved aerobic capacity and VO₂max vs. placebo over 12 weeks
+
+**Mechanisms for performance benefits:**
+- Enhanced oxygen delivery via adenosine-mediated vasodilation (cordycepin's structural similarity to adenosine)
+- Optimization of ATP production efficiency in mitochondria
+- Reduced lactate accumulation and exercise-induced oxidative stress
+- Enhanced blood flow and nitric oxide pathways
+
+**Respiratory function:**
+- Cordyceps supplementation reduced symptoms in a randomized study of patients with **chronic obstructive pulmonary disease (COPD)**, improving forced expiratory volume
+- Cordycepin suppresses T-cell activation, potentially reducing chronic airway inflammation
+- Animal studies show bronchodilatory and anti-inflammatory effects in airway tissue
+
+**Energy metabolism:**
+- Cordycepin's mechanism as a 3′-deoxyadenosine affects cellular nucleotide pools and may influence mitochondrial biogenesis; increases in ATP production observed in animal and cell studies
+- Polysaccharides from *C. militaris* demonstrate anti-fatigue effects in forced swim tests in animal models
+
+See [[Cordycepin]] for full pharmacological detail including anti-tumor, antiviral, and anti-inflammatory mechanisms.
+See [[Safety and Contraindications]] for antiplatelet activity.
+See [[Extraction Methods]] — hot water extraction sufficient for most cordycepin.
 
 ## Culinary
 

@@ -53,6 +53,43 @@ Very difficult to cultivate commercially. The sclerotium develops over years in 
 
 **Note on betulinic acid:** Chaga accumulates betulinic acid from its birch host — this compound has demonstrated anticancer activity in vitro and is being researched for HIV and cancer applications.
 
+### Species-Specific Health Research
+
+**Taxonomic note for health research:** Chaga is a parasitic sclerotium (not a true fruiting body) that grows on birch trees. Some of its bioactive compounds (betulinic acid, betulin) originate from the **birch host tree (*Betula* spp.)** rather than the fungus itself, blurring the line between mushroom and host-tree medicine.
+
+**Primary bioactive compounds (expanded):**
+- 33 isolated triterpenoids, including inotodiol, ergosterol, and betulinic acid
+- 44+ identified phenolic compounds including hispidin and other styrylpyrones
+- Polysaccharides (multiple fractions)
+- Melanin-like pigments (primary contributor to exceptional ORAC score)
+
+**Antioxidant:**
+- Highest ORAC score of any documented natural food: approximately **50× the antioxidant capacity of blueberries** by dry weight — driven by melanin-like chromogenic complex
+- Hispidin inhibits lipid peroxidation; polyphenols donate hydrogen atoms to neutralize ROS
+
+**Anti-inflammatory:**
+- Inonotusols: inhibit LPS-induced NO production by blocking iNOS expression and NF-κB luciferase activation in BV2 microglial cells
+- Polysaccharides: prevent NF-κB p65 nuclear translocation; reduce TNF-α, IL-1β, and IL-6 expression
+
+**Anti-cancer (preclinical only — no human clinical trials):**
+- Ergosterol peroxide: induces apoptosis in HCT116 and HT-29 colorectal cancer cells via caspase activation
+- Inotodiol: p53-dependent apoptosis in HeLa cervical cancer cells
+- Lung cancer (A549): direct caspase-3 activation independent of p53
+- Betulinic acid: established cytotoxicity against melanoma and neuroectodermal tumors; also inhibits HIV-1 replication; targets mitochondrial apoptotic pathway
+- **Critical note:** No human clinical trials for cancer have been conducted with chaga. All cancer data is in vitro or animal.
+
+**Blood sugar:**
+- Polysaccharide fraction IOEP2 at 40–80 mcg/mL increased glucose consumption in insulin-resistant HepG2 liver cells more effectively than metformin (in vitro)
+- Type 2 diabetes animal model: polysaccharide treatment improved insulin resistance, restored hepatic glycogen, ameliorated impaired glucose tolerance
+- One animal study cited a 31% decrease in blood sugar over 3 weeks
+- No human clinical trials specifically for blood sugar have been completed
+
+**Safety note — oxalates:** Chaga is extraordinarily high in oxalates — chronic, high-dose chaga consumption has been linked to **oxalate nephropathy** (kidney stones). At least one documented case report exists of a cancer patient who developed renal failure from daily high-dose chaga tea consumption. See [[Safety and Contraindications]].
+
+See [[Terpenoids and Triterpenoids]] for inonotusol and betulinic acid mechanisms.
+See [[Safety and Contraindications]] for oxalate nephropathy risk and heavy metal bioaccumulation in wild chaga.
+See [[Extraction Methods]] — dual extraction (hot water + alcohol) recommended for chaga.
+
 ## Culinary
 
 Consumed primarily as a hot water extract (decoction). Simmered for 15–60 minutes in hot water (not boiling) to extract water-soluble polysaccharides and melanins. The resulting tea is earthy, slightly bitter, and reminiscent of vanilla or coffee. Commercially available as:
