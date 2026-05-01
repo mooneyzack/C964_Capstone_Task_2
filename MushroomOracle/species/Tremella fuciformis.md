@@ -57,7 +57,7 @@ China produces approximately **100,000 metric tonnes** of dried snow fungus annu
 
 **Home cultivation** is challenging due to the dual-culture requirement; many commercial kits use pre-inoculated substrate blocks with the companion species already established.
 
-*See also: [[Substrates]], [[Environmental Parameters]], [[Cultivation Overview]]*
+*See also: [[Substrates]], [[Environmental Parameters]], [[Growing Methods]]*
 
 ## Bioactive Compounds
 

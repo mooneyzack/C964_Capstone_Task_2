@@ -44,7 +44,7 @@ The generic name *Phellinus* derives from Greek for "cork" or "oak bark"; *linte
 
 **Growth rate:** Extremely slow; wild brackets may require 10–20 years to reach significant size. Brackets are perennial, continuing to grow and add new pore layers each season.
 
-*See also: [[Wood Decay]], [[Parasitic Fungi]], [[Traditional Medicine Systems]]*
+*See also: [[Wood Decay]], [[Parasitic Fungi]], [[Traditional Medicine]]*
 
 ## Cultivation
 
@@ -60,7 +60,7 @@ Commercial cultivation is extremely difficult and largely unsuccessful. Key chal
 
 **Wild harvest:** Most high-quality material remains wild-harvested; Korean wild sanghwang is one of the most valuable wild mushroom products in East Asia by weight.
 
-*See also: [[Cultivation Overview]], [[Substrates]], [[Liquid Fermentation]]*
+*See also: [[Growing Methods]], [[Substrates]], [[Liquid Fermentation]]*
 
 ## Bioactive Compounds
 

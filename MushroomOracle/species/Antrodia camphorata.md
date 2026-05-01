@@ -67,7 +67,7 @@ Cultivation is the primary goal of research programs at National Taiwan Universi
 - Mycelial biomass products: USD $100–$500/kg
 - A single large wild specimen can be worth several thousand dollars
 
-*See also: [[Cultivation Overview]], [[Liquid Fermentation]], [[Conservation in Mycology]]*
+*See also: [[Growing Methods]], [[Liquid Fermentation]], [[Conservation in Mycology]]*
 
 ## Bioactive Compounds
 

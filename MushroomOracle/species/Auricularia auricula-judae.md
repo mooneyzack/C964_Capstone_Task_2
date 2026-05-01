@@ -45,7 +45,7 @@ last_verified: 2026-05-01
 
 **Taxonomy:** Previously *Auricularia auricula*, split from *A. polytricha* (cloud ear), which is primarily tropical and differs in texture and size. Some sources still treat these as synonyms or regional varieties.
 
-*See also: [[Wood Decay]], [[Fungal Life Cycle]], [[Cultivation History]]*
+*See also: [[Wood Decay]], [[Fungal Life Cycle]], [[Ethnomycology]]*
 
 ## Cultivation
 

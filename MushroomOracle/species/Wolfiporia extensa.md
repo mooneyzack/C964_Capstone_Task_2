@@ -46,7 +46,7 @@ last_verified: 2026-05-01
 - **Fu Shen (茯神):** Sclerotium tissue formed around a pine root — used specifically for calming the spirit (insomnia, anxiety)
 - **Fu Pi (茯苓皮):** The dark outer rind — used primarily as a diuretic
 
-*See also: [[Traditional Chinese Medicine]], [[Fungal Sclerotia]], [[Soil Health and Ecosystem Services]]*
+*See also: [[Traditional Medicine]], [[Fungal Sclerotia]], [[Soil Health and Ecosystem Services]]*
 
 ## Cultivation
 
@@ -64,7 +64,7 @@ Cultivation has been practiced in China for several centuries, though it remains
 
 **Market scale:** China produces approximately **8,000–10,000 metric tonnes** annually; Fu Ling is one of the highest-volume TCM herbs by weight. Yunnan Province ("Yunnan Poria") is the most prestigious production region.
 
-*See also: [[Substrates]], [[Cultivation Overview]], [[Traditional Cultivation Methods]]*
+*See also: [[Substrates]], [[Growing Methods]], [[Ethnomycology]]*
 
 ## Bioactive Compounds
 
@@ -94,7 +94,7 @@ Cultivation has been practiced in China for several centuries, though it remains
 - Traditional diuretic use supported by inhibition of sodium-potassium ATPase in renal tubule cells (animal models)
 - Modest effects on blood glucose observed in streptozotocin diabetic mouse models
 
-*See also: [[Terpenoids and Triterpenoids]], [[Beta-Glucans]], [[Traditional Medicine Systems]], [[Safety and Contraindications]]*
+*See also: [[Terpenoids and Triterpenoids]], [[Beta-Glucans]], [[Traditional Medicine]], [[Safety and Contraindications]]*
 
 ## Culinary
 

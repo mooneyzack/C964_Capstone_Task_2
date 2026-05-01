@@ -103,7 +103,7 @@ The ability to break down cellulose and lignin makes *P. chrysosporium* central 
 - LiP and MnP enzymes are targets for directed evolution and engineering to improve industrial performance
 - Multiple biorefinery concepts incorporate fungal pretreatment as the first step in biomass-to-fuel pipelines
 
-*See also: [[Decomposition and Carbon Cycling]], [[Soil Health and Ecosystem Services]], [[Industrial Applications]]*
+*See also: [[Decomposition and Carbon Cycling]], [[Soil Health and Ecosystem Services]], [[Biotech Applications]]*
 
 ## Cultivation
 

@@ -44,7 +44,7 @@ Smut fungi are [[Basidiomycota]] parasites that replace plant reproductive tissu
 **Key species:**
 - *[[Ustilago maydis]]* (corn smut) — parasitizes maize, producing large galls on ears and tassels; considered a delicacy in Mexico (*huitlacoche*)
 - *[[Ustilago tritici]]* — loose smut of wheat
-- *[[Tilletia* spp.]]* — bunt/stinking smut of wheat
+- *Tilletia* spp. — bunt/stinking smut of wheat
 
 ## Entomopathogenic Fungi
 
