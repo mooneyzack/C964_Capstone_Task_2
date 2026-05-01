@@ -72,6 +72,18 @@ See [[Extraction Methods]] — hot water extraction is sufficient for pleuran an
 
 ## Culinary
 
-One of the most versatile edible fungi. The flesh is meaty and mild with a slightly anise-like flavor. Excellent sautéed, roasted, or used in soups and stir-fries. Delicate texture best preserved with high-heat cooking. All color variants (gray, pink, yellow, white) are edible and similar in flavor.
+One of the most versatile edible fungi. The flesh is meaty and mild with a slightly anise-like flavor driven by benzaldehyde and 1-octen-3-ol. All color variants (gray, pink, yellow, white) are edible with broadly similar flavor — golden oyster (*P. citrinopileatus*) has the most distinct, tropical-fruit sweetness.
+
+**Key technique:** Dry sauté in a hot pan without fat first — oyster mushrooms release significant moisture. Once the liquid evaporates and the mushrooms are browning, add butter or oil and aromatics. Crowding the pan produces a steamed, flavorless result. See [[Cooking Techniques]].
+
+**Flavor profile:** Mild (umami 2/5), slightly sweet, delicate anise note, absorbs surrounding flavors readily. Umami intensity is moderate — best treated as a versatile carrier rather than a dominant flavor. See [[Flavor Profiles]].
+
+**Pairings:** Garlic, thyme, lemon, soy-butter, miso-butter, cream sauces, chicken, seafood. Pairs well with Chardonnay and Gruyère. See [[Mushroom Pairings]].
+
+**Best preparations:** Stir-fry, dry sauté with garlic and butter, roasted at 220°C until edges crisp, oyster mushroom "po'boy" (battered and fried), cream of mushroom soup base.
+
+**Preservation:** Dehydrates well; drying concentrates flavor. Sauté before freezing for best results. See [[Preservation Methods]].
+
+**Safety:** Fully cooked. Not associated with raw toxicity but raw texture is unpleasant and flavor is dull. See [[Safety and Contraindications]].
 
 ## Sources

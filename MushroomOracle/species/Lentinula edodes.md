@@ -73,8 +73,18 @@ See [[Extraction Methods]] — hot water extraction captures lentinan and eritad
 
 ## Culinary
 
-One of the most prized and widely used culinary mushrooms worldwide. Rich, savory umami flavor from glutamates and lenthionine. The caps are tender when cooked; the stems are fibrous and typically used for stock. Excellent dried and reconstituted — drying intensifies flavor dramatically. Widely used in East Asian cuisines: ramen, hot pot, stir-fry, dashi broth.
+One of the most prized and widely used culinary mushrooms worldwide. The dominant flavor compound is **lenthionine** (1,2,3,5,6-pentathiepane), a cyclic polysulfide that forms from lentinic acid during cell damage — similar in mechanism to allicin formation in garlic when crushed. This gives shiitake its rich, smoky, sulfurous "forest floor" character. Umami intensity: 5/5. See [[Flavor Profiles]].
 
-**Note:** Raw or undercooked shiitake can cause "shiitake dermatitis" (flagellate erythema) in sensitive individuals — a whiplash-pattern skin rash triggered by lentinan. Always cook thoroughly.
+**Fresh vs. dried:** Fresh shiitake has a milder, more mushroomy profile. Dried shiitake concentrates lenthionine and all flavor compounds dramatically — reconstituted dried shiitake has roughly triple the flavor intensity of fresh. Save all soaking liquid for stocks and sauces.
+
+**Stems:** The stems are very tough (high structural protein content) and almost never palatably edible directly. Slice thin and add to stock, or discard. The caps, by contrast, become silky-tender with proper cooking.
+
+**Key techniques:** Dry sauté, roast, braise (especially for stem-containing pieces), simmer in broth. For shiitake dashi, cold-infuse dried caps in water with kombu — the combination creates synergistic umami beyond either ingredient alone. See [[Cooking Techniques]].
+
+**Pairings:** Soy, ginger, garlic, sesame, miso, sake, mirin, pork, duck, egg, beef braises. Pairs with Pinot Noir and dry Riesling. See [[Mushroom Pairings]].
+
+**Preservation:** Dehydrating is the most important preservation method — drying dramatically intensifies flavor. Can also be pickled (vinegar brine) or sauté-frozen. See [[Preservation Methods]].
+
+**Safety — important:** Raw or undercooked shiitake causes **flagellate erythema** (shiitake dermatitis) in many individuals — a distinctive whiplash-pattern skin rash triggered by lentinan. Always cook shiitake thoroughly before serving. See [[Safety and Contraindications]].
 
 ## Sources

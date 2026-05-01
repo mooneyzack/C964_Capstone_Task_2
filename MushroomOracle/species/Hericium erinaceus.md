@@ -77,6 +77,18 @@ See [[Safety and Contraindications]] for antiplatelet activity and drug interact
 
 ## Culinary
 
-Mild, sweet flavor reminiscent of crab or lobster — makes it an excellent seafood substitute. The firm white flesh holds up well to sautéing, roasting, and braising. Best cooked at high heat until golden brown; avoid boiling or steaming, which makes the texture spongy. Excellent as a main dish, in risotto, or as a meat substitute.
+The flavor is genuinely seafood-reminiscent — mild, sweet, and delicate with notes comparable to crab or lobster meat. This makes lion's mane one of the most useful mushrooms for plant-based cooking and seafood-pairing preparations. Umami intensity: 2/5 — the appeal is textural and aromatic, not savory-intense. See [[Flavor Profiles]].
+
+**Critical technique:** Lion's mane holds a large amount of water. If cooked in a crowded pan or at insufficient heat, it steams and becomes spongy with a bland, slightly musty flavor. The correct method: slice into thick planks (2–3 cm), press gently with a paper towel to remove surface moisture, and cook in a **very hot dry pan** until deeply golden on each cut surface before adding butter. The caramelized exterior with tender interior is when the seafood character is most pronounced.
+
+**Do not boil or steam:** Submersion in liquid makes lion's mane spongy and removes its delicate flavor compounds.
+
+**Pairings:** Tarragon, lemon, brown butter, garlic, cream, seafood (actual lobster or crab for contrast/complement), goat cheese, ricotta, Chardonnay, white Burgundy. See [[Mushroom Pairings]].
+
+**Best preparations:** Pan-seared thick planks in brown butter with tarragon; lion's mane "crab cakes" (shredded, bound with breadcrumbs and egg, seared); lion's mane chowder; risotto with lion's mane and lemon; battered and fried as seafood substitute.
+
+**Preservation:** Dehydrates reasonably well; sauté-freezing preferred for maintaining texture in cooked applications. See [[Preservation Methods]].
+
+**Safety:** Fully cook; not recommended raw. See [[Safety and Contraindications]].
 
 ## Sources

@@ -56,12 +56,20 @@ Cannot be cultivated commercially due to obligate ectomycorrhizal requirements. 
 
 ## Culinary
 
-One of the world's most highly prized edible mushrooms, rivaling truffles in culinary status in Italy and France. Rich, complex, deeply savory umami flavor. Excellent fresh, dried, or preserved in oil.
+One of the world's most highly prized edible mushrooms — the *re dei funghi* ("king of mushrooms") in Italy. The flavor is intensely savory, deeply complex, woodsy, and nutty, with a natural umami intensity (5/5) comparable to aged Parmesan. Flavor compounds include C8 volatile alcohols and esters, methyl ketones, and various terpenoids — one of the most complex aroma profiles of any edible mushroom. See [[Flavor Profiles]].
 
-**Fresh:** Slice and sauté in butter or olive oil; add to risotto, pasta, polenta. The caps can be grilled whole.
+**Fresh porcini:** A seasonal luxury (summer–autumn, depending on region). Slice and sauté in olive oil or butter; use whole caps for grilling; fold into risotto or pasta at the end. Young caps are firm and excellent; older caps become soft-spongy (still good in sauces and soups).
 
-**Dried:** The drying process dramatically intensifies the flavor. Reconstitute in warm water (save the soaking liquid for stock — full of flavor). Essential for authentic Italian *porcini* pasta dishes, risotto *ai porcini*, and French *cèpe* preparations.
+**Dried porcini:** The dried form is arguably more useful than fresh for most preparations. Drying concentrates all flavor compounds dramatically — a small amount of dried porcini transforms a dish. Reconstitute in warm (not boiling) water 20–40 minutes. **Always save the soaking liquid** — strain through a fine-mesh strainer or coffee filter to remove grit; add to stocks, risotto, braises, or sauces.
 
-**Market forms:** Fresh (seasonal, premium), dried (year-round, widely available), frozen (reasonable quality), preserved in oil (traditional Italian).
+**Porcini powder:** Dried porcini ground to a fine powder is one of the most powerful umami seasonings available. Add to pasta dough, rubs for meat, compound butter, soups, or any dish where background savory depth is needed. See [[Cooking Techniques]].
+
+**Market forms:** Fresh (seasonal, very premium — $20–80+/kg), dried (year-round, widely available, essential pantry item), frozen (reasonable quality), preserved in oil (*sott'olio*, traditional Italian).
+
+**Pairings:** Beef, veal, pasta, risotto, polenta, truffle (in luxury preparations), thyme, rosemary, sage, garlic, Parmesan, Fontina, Barolo, Nebbiolo, Pinot Noir. The Italian canon of porcini preparations: *risotto ai porcini*, *pasta al porcini*, *cèpes à la bordelaise* (French: garlic, parsley, olive oil), *zuppa di porcini*. See [[Mushroom Pairings]].
+
+**Cannot be cultivated** — obligate ectomycorrhizal. All supply is wild-harvested.
+
+**Preservation:** Dehydrating is the primary preservation method and actively improves the culinary value. Freeze-drying for premium products. Can be frozen raw (for sauce applications) or preserved in olive oil (*sott'olio*). See [[Preservation Methods]].
 
 ## Sources

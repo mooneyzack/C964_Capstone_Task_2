@@ -60,10 +60,20 @@ Historically almost impossible to cultivate commercially. In 2021, a breakthroug
 
 ## Culinary
 
-One of the most prized edible wild fungi in North America and Europe. Rich, complex, nutty, earthy flavor that intensifies when dried. **Must always be cooked** — thermolabile toxins are present in raw specimens.
+One of the most prized edible wild fungi in North America and Europe. The flavor is rich, complex, nutty, earthy, and slightly honeyed — intensifying when dried. The honeycomb-pitted surface is not merely aesthetic: the pits trap and hold butter, cream, and sauces in a way no other mushroom achieves, making morels uniquely effective in sauce-based preparations. Umami intensity: 4/5. See [[Flavor Profiles]].
 
-A 2023 Montana outbreak linked 51 illnesses and 2 deaths to raw morel consumption at a restaurant. Never eat raw morels.
+**Safety — critical:** Raw morels contain thermolabile toxins (poorly characterized, possibly gyromitrin-related) that cause gastrointestinal illness. A 2023 restaurant outbreak in Montana linked 51 illnesses and 2 deaths to inadequately cooked morel mushrooms. **Always cook morels thoroughly before serving.** See [[Safety and Contraindications]].
 
-Excellent sautéed in butter, used in cream sauces, stuffed, or combined with eggs. Pairs exceptionally well with asparagus (sharing spring seasonality). Dried morels rehydrate well and have concentrated flavor. High market value: $30–100+/lb fresh at specialty markets.
+**Key technique:** Sauté in whole butter over medium-high heat — the pitted surface absorbs and holds the butter. Dry sautéing first is less critical than with high-moisture species; morels can go directly into butter. See [[Cooking Techniques]].
+
+**Dried morels:** Reconstituted in warm water 30–40 minutes; save the soaking liquid. Dried morels have a concentrated, nutty-caramel character that differs from fresh — both forms are valuable.
+
+**Pairings:** Butter (essential — morels are one of the few mushrooms where butter is non-negotiable), cream, shallots, thyme, tarragon, dry sherry or Madeira, eggs, asparagus (spring seasonality resonance), beef tenderloin, veal sweetbreads, pasta. Wine: white Burgundy or Burgundy rouge (Pinot Noir). Cheese: Gruyère. See [[Mushroom Pairings]].
+
+**Classic preparations:** Morel cream sauce (*sauce aux morilles*) with beef or veal; morel and asparagus omelet or scrambled eggs; morel risotto; stuffed morels (whole caps filled with duxelles or herbed ricotta); morel pasta with cream, shallots, and Parmesan.
+
+**Preservation:** Dehydrating is excellent — dried morels keep 1–2 years and are commercially available year-round. See [[Preservation Methods]].
+
+**Market value:** $30–100+/lb fresh at specialty markets; among the most commercially valuable edible fungi in North America.
 
 ## Sources

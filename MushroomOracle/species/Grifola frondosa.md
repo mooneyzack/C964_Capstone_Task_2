@@ -73,6 +73,18 @@ See [[Extraction Methods]] — hot water extraction is typically sufficient for 
 
 ## Culinary
 
-Highly prized in Japanese cuisine. The layered fronds have a rich, earthy, woodsy flavor and firm, meaty texture that holds up well to cooking. Excellent in hot pot, stir-fry, tempura, rice dishes, and soups. The base and thick stipe portions may be tough — trim and use for stock. One of the best mushrooms for roasting whole at high heat.
+One of the most flavorful and texturally interesting culinary mushrooms. The layered fan-like fronds have a rich, earthy, woodsy flavor with a pleasant bitterness that cooks out. Umami intensity: 4/5. The firm, fibrous texture of the outer fronds becomes fork-tender after cooking, while the thin frond tips crisp magnificently under high heat. See [[Flavor Profiles]].
+
+**Roasting:** Arguably the best preparation for maitake. Separate fronds into clusters, brush or toss lightly with oil and salt, and roast at 220°C/425°F. The frond tips crisp into delicate, savory chips while the thicker bases remain tender and juicy. This technique — used by many top restaurants — dramatically elevates maitake beyond its "hotpot ingredient" reputation.
+
+**Tempura:** Japanese classic. The fronds create a lacy, crunchy tempura shell. The interior steams inside the batter, maintaining tenderness. Use ice-cold batter for maximum crispness. See [[Cooking Techniques]].
+
+**Base and thick stipes:** These are typically too tough to eat directly. Trim off and add to mushroom stock or shiitake dashi.
+
+**Pairings:** Soy, miso, sake, ginger, sesame, pork belly, duck, winter squash, Pinot Noir, Grüner Veltliner. Korean maitake kimchi (*잎새버섯 김치*) is exceptional — the layered fronds hold kimchi paste remarkably well. See [[Mushroom Pairings]].
+
+**Preservation:** Dehydrates very well; the dried fronds rehydrate fully and maintain character. Roasted and frozen portions work for later soup additions. See [[Preservation Methods]].
+
+**Safety:** Always cook. See [[Safety and Contraindications]].
 
 ## Sources

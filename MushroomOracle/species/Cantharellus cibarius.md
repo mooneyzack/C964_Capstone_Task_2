@@ -53,8 +53,20 @@ Cannot be cultivated commercially — strictly ectomycorrhizal and requires a li
 
 ## Culinary
 
-One of the world's most prized edible fungi. The fruity apricot aroma and mild peppery flavor make chanterelles distinctive. Excellent sautéed in butter (high fat enhances flavor release), used in cream sauces, pasta, risotto, and egg dishes. Do not wash — they absorb water readily. Clean with a dry brush. Do not overcrowd when cooking or they will steam rather than sauté.
+One of the world's most prized edible wild fungi. The characteristic fruity-apricot aroma is produced by **1-octen-3-ol**, **1,5-octadien-3-ol**, and other C8 volatile compounds, with a mildly peppery, slightly floral flavor from sesquiterpene compounds. Chanterelles are fat-soluble flavor mushrooms — their aroma compounds dissolve into butter and cream, making fatty cooking mediums essential. Umami intensity: 3/5. See [[Flavor Profiles]].
 
-Pairs well with: thyme, garlic, shallots, cream, eggs, pasta, chicken, and game. The flavor holds up to longer cooking, making them suitable for soups and braises.
+**Do not wash:** Chanterelles absorb water aggressively. Always clean with a dry brush or barely damp paper towel. Even a brief rinse degrades the texture significantly. See [[Cooking Techniques]].
+
+**Do not overcrowd:** If the pan is crowded, chanterelles steam in their own released liquid and the aroma dissipates. Cook in a wide pan in a single layer; if cooking a large batch, work in portions.
+
+**Key technique:** Dry sauté first over medium-high heat until moisture releases and evaporates; then add whole butter and aromatics (shallot, thyme, garlic). The butter becomes fragrant with chanterelle volatile compounds — it should be noticeably apricot-perfumed.
+
+**Pairings:** Butter (essential), cream, shallots, thyme, tarragon, garlic, white wine or dry vermouth, eggs, chicken, veal, pork chop, pasta, goat cheese, Gruyère. Wine: White Burgundy (Meursault), Pinot Noir, Grüner Veltliner. See [[Mushroom Pairings]].
+
+**Classic preparations:** Chanterelle cream sauce (*à la crème*) with chicken or pasta; chanterelle and egg omelet or frittata; chanterelle risotto; chanterelle quiche; chanterelle and goat cheese tart; chanterelles in cream pasta with Gruyère.
+
+**Preservation:** Chanterelles do not dry well — dehydration strips the fruity volatile aroma. **Raw freezing is the best preservation method** for chanterelles: clean, dry, and freeze in a single layer on a sheet pan, then bag. Flavor is largely preserved; texture suffers (use in cooked applications only after freezing). See [[Preservation Methods]].
+
+**Cannot be cultivated** — strictly ectomycorrhizal; all commercial supply is wild-harvested.
 
 ## Sources

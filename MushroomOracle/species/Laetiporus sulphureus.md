@@ -52,14 +52,28 @@ Rarely cultivated commercially; occasional cultivation on hardwood logs or stump
 
 ## Culinary
 
-Edible when young and fresh; becomes tough and inedible with age. The young flesh is white, moist, and has a texture genuinely reminiscent of chicken breast — making it one of the best meat-substitute mushrooms.
+Edible only when young and fresh — age dramatically degrades quality. The young flesh is white, succulent, and fibrous in a way that genuinely resembles cooked chicken breast, making chicken of the woods one of the best plant-based meat substitutes. Flavor: mildly savory, slightly lemony, essentially neutral — it absorbs surrounding flavors readily. Umami intensity: 2/5. See [[Flavor Profiles]].
 
-**Cautions:**
-- Some individuals experience gastrointestinal reactions (nausea, vomiting), particularly when collected from conifers, yew, or eucalyptus (the conifer-specialist species may contain different compounds)
-- Specimens from yew (*Taxus*) should be avoided — may concentrate taxol-related compounds
-- First-time eaters should test a small amount
-- Always cook thoroughly — not for raw consumption
+**Harvest only bright, young specimens:** Sulfur-yellow to orange color, firm and moist texture. Within days, the flesh becomes dry, crumbly, and tough. There is no culinary redemption for old specimens — compost them.
 
-Best prepared: sautéed in butter, used as chicken substitute in curries, fried in breadcrumbs, or roasted. The flavor is mild and pleasant; it absorbs surrounding flavors well.
+**Key technique:** Cook fully — not suitable for raw consumption. Young specimens sauté well in butter; thick pieces benefit from braising or simmering to tenderize the interior. See [[Cooking Techniques]].
+
+**Best preparations:**
+- Sautéed in butter with lemon and garlic — the lemon note complements and enhances the mushroom's own lemony character
+- Battered and fried in breadcrumbs or tempura batter — the texture remarkably mimics fried chicken
+- Curries and stews — absorbs spice blends beautifully; used in South Asian-inspired recipes as chicken substitute
+- Roasted: works well for smaller, tender pieces
+
+**Pairings:** Lemon, garlic, thyme, curry spices, tarragon, cream, goat cheese, Chardonnay. See [[Mushroom Pairings]].
+
+**Preservation:** Sauté-first freezing is the best option. Dehydration produces a tough, leathery product. See [[Preservation Methods]].
+
+**Safety cautions:**
+- Specimens collected from **conifer hosts, yew (*Taxus*), or eucalyptus** cause gastrointestinal distress in many people — possibly due to different compound profiles in conifer-specialist *Laetiporus* species
+- Specimens from yew should be avoided entirely
+- First-time eaters should consume a small test amount and wait 24 hours
+- Always cook thoroughly — raw consumption causes gastrointestinal illness
+
+See [[Safety and Contraindications]] for full guidance.
 
 ## Sources

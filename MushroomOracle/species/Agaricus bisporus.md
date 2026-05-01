@@ -59,8 +59,22 @@ Requires a **casing layer** of peat-chalk mixture to initiate fruiting — the m
 
 ## Culinary
 
-The most commercially consumed mushroom globally. Mild, earthy flavor that intensifies with age (portobello has strongest flavor). The button stage is mild and versatile; crimini has more developed earthy flavor; portobello is meaty and rich, making it an excellent vegetarian burger patty when grilled whole.
+The most commercially consumed mushroom globally — all three market forms (button, crimini, portobello) are the same species (*A. bisporus*) at different developmental stages. Flavor and texture compound substantially with maturity. See [[Flavor Profiles]] for the full comparison.
 
-All forms are excellent raw, sautéed, roasted, grilled, stuffed, or used in soups and sauces. Pairs well with virtually any ingredient. The dark gills of portobello can bleed dark color into sauces — scrape them out if a lighter color is desired.
+**Button (white, young):** Mild (umami 1/5), slightly grassy, spongy texture. Versatile and absorbs surrounding flavors readily. The only common cultivated mushroom that is genuinely pleasant raw — firm texture, clean flavor. Excellent in salads, on pizzas, in soups and stews.
+
+**Crimini (brown cultivar, intermediate):** More developed earthy flavor (umami 2/5); firmer and denser. The everyday workhorse for sautés, risotto, pasta, and sauces. Better flavor than button at the same size.
+
+**Portobello (fully mature, cap opened):** Rich, deeply savory, almost porcini-like intensity (umami 4/5). Very firm, meaty texture. **The dark gills bleed dark purple-brown color into sauces and cream preparations** — scrape them out with a spoon when appearance matters. The portobello cap grilled whole or roasted is the canonical vegetarian "burger."
+
+**Key techniques:** Dry sauté is essential for button and crimini — they release significant moisture and must be cooked in a hot, uncrowded pan. Portobello caps can be grilled whole (marinate in oil, balsamic, garlic), roasted cut-side-up, or stuffed and baked. See [[Cooking Techniques]].
+
+**Pairings:** Nearly universal. Best with: thyme, rosemary, garlic, cream, soy sauce, Worcestershire, beef (portobello/crimini), eggs (all forms), Gruyère, Parmesan, Brie. Wine: Pinot Noir with portobello; Chardonnay with cream-based button preparations. See [[Mushroom Pairings]].
+
+**Duxelles:** Button and crimini are the classic base for duxelles (finely minced mushrooms cooked to a dry paste) — their mild flavor is an ideal neutral foundation. See [[Cooking Techniques]].
+
+**Preservation:** Dehydrate well (slice thin). Crimini and portobello powder (dried and ground) is an excellent neutral umami seasoning. See [[Preservation Methods]].
+
+**Raw safety note:** Button mushrooms are safe raw at culinary quantities. They contain **agaritine** (a hydrazine derivative), which is heat-labile and destroyed by cooking. At dietary levels, risk is not established. See [[Safety and Contraindications]].
 
 ## Sources
