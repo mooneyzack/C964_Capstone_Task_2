@@ -19,6 +19,20 @@ Dried mushroom powders (especially shiitake and porcini) serve as natural umami 
 
 The food industry uses mushroom extracts as natural flavor enhancers in soups, sauces, seasonings, and processed foods.
 
+### Species-Specific Powder Applications
+
+| Powder | Primary Use | Why |
+|--------|-----------|-----|
+| Shiitake (*[[Lentinula edodes]]*) | Umami seasoning, soup base | Highest GMP content when dried (~150 mg/100g); strong synergistic umami |
+| Porcini (*[[Boletus edulis]]*) | Premium seasoning, risotto enhancer | Highest free glutamate when dried (~1,340 mg/100g) |
+| Button (*[[Agaricus bisporus]]*) | Meat extender, blenditarian | Neutral flavor, high volume availability, low cost |
+| Maitake (*[[Grifola frondosa]]*) | Functional food additive | Beta-glucan content; combined flavor + health positioning |
+| Lion's mane (*[[Hericium erinaceus]]*) | "Brain health" supplements and coffees | [[Hericenones and Erinacines]]; functional beverage trend |
+
+### Mushroom Coffee and Functional Beverages
+
+A rapidly growing market segment blends mushroom extracts (typically lion's mane, chaga, reishi, or cordyceps) into coffee, tea, or cocoa. The extracts provide bioactive compounds (beta-glucans, hericenones, triterpenoids) while the base beverage provides caffeine and familiar flavor. Companies like Four Sigmatic, Mud/Wtr, and Everyday Dose have driven consumer awareness, though health claims in this space often outpace the evidence (see [[Safety and Contraindications]]).
+
 ---
 
 ## Chitosan from Fungal Cell Walls

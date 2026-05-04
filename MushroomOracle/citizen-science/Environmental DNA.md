@@ -49,6 +49,22 @@ The consensus is that metabarcoding and fruit body surveys should be **combined*
 
 ---
 
+## Limitations and Biases
+
+eDNA metabarcoding is powerful but not without caveats:
+
+**PCR bias**: Universal ITS primers amplify some lineages preferentially. The ITS2 sub-region is increasingly favored because it offers more even amplification across Basidiomycota and Ascomycota, but no primer set captures everything.
+
+**DNA persistence**: eDNA can persist in soil for weeks to months after the organism is no longer active, meaning detection does not prove current presence — only that the organism existed at that location recently.
+
+**Quantification challenges**: Read abundance (number of sequences) does not reliably correlate with biomass or abundance of the organism. A species represented by 50% of reads is not necessarily 50% of the community — primer bias, ITS copy number variation, and DNA extraction efficiency all confound quantification.
+
+**Reference database gaps**: Sequences can only be identified if matching references exist in UNITE or GenBank (see [[Fungal Databases]]). For many lineages, the best match is "uncultured soil fungus" — these are the **dark taxa** (see [[Citizen Science Platforms]]).
+
+**Cost and expertise**: While cheaper than many traditional survey methods at scale, metabarcoding still requires molecular lab equipment, sequencing runs ($200–2,000 per sample batch depending on platform and depth), and bioinformatics expertise for data processing.
+
+---
+
 ## Air Sampling for Fungal Spores
 
 Aerial eDNA is an emerging frontier:

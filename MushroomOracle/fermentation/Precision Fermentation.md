@@ -47,6 +47,30 @@ Produces **bovine beta-casein** through precision fermentation to create animal-
 
 ---
 
+## How It Works: The Precision Fermentation Process
+
+The general workflow applies across companies, with organism- and product-specific variations:
+
+1. **Gene insertion**: The gene encoding the desired protein (e.g., bovine beta-lactoglobulin) is synthesized and inserted into a host organism's genome. For Perfect Day, the host is *Trichoderma reesei*, chosen because it naturally secretes enormous amounts of protein (100+ g/L in industrial strains — see [[Biotech Applications]])
+2. **Fermentation**: The engineered organism is grown in industrial bioreactors (typically 10,000–250,000 liter capacity) on feedstocks like corn sugar or molasses. Fermentation runs last 3–7 days depending on the organism and target
+3. **Separation**: The target protein is secreted into the broth (for filamentous fungi) or retained in cells (for yeast), then separated from the biomass via centrifugation or filtration
+4. **Purification**: Ultrafiltration, diafiltration, chromatography, or other techniques isolate the target molecule to high purity. The spent biomass is typically used as animal feed
+5. **Processing**: The purified protein is spray-dried, crystallized, or otherwise formulated for its end application
+
+The key advantage of filamentous fungi as hosts (vs. bacteria or yeast) is their natural secretory capacity — they evolved to secrete enzymes into their environment, so engineering them to secrete a target protein leverages existing cellular machinery rather than fighting it.
+
+---
+
+## Non-Food Applications
+
+Precision fermentation extends beyond food proteins:
+
+- **Pharmaceutical proteins**: Insulin, human growth hormone, and many biologics are produced via precision fermentation (though typically in *E. coli* or CHO cells rather than fungi)
+- **Industrial enzymes**: Recombinant enzyme production in *A. niger* and *T. reesei* is a mature industry — see [[Biotech Applications]]
+- **Specialty ingredients**: Vanillin, saffron compounds, and other high-value flavor/fragrance molecules produced by engineered yeast or fungi
+
+---
+
 ## Relevance to the Mushroom Vault
 
 Precision fermentation sits at the intersection of several vault topics:

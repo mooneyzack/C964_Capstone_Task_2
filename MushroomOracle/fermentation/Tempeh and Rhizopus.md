@@ -39,6 +39,27 @@ Fermentation with *R. oligosporus* drives major changes:
 
 ---
 
+## Traditional Production: Indonesia
+
+Tempeh originated in Java, Indonesia, with earliest written records from the 1600s. It remains a dietary staple — Indonesia consumes approximately **2.4 million tonnes annually**. Traditional production uses banana leaves as wrapping (providing natural perforations for air exchange and contributing flavor compounds), with inoculant passed between producers as dried leaf containing spores (*usar*). Industrial production uses pure *R. oligosporus* starter cultures in perforated plastic bags.
+
+**Quality indicators**: Good tempeh has a firm, sliceable texture with no visible beans — the mycelium completely fills the gaps. The surface should be uniformly white. Any grey-black discoloration indicates sporulation (overfermentation) — still safe to eat but produces off-flavors. Pink, orange, or green discoloration indicates contamination.
+
+---
+
+## Comparison to Other Fungal Foods
+
+| Product | Organism | Process | Protein Source |
+|---------|----------|---------|---------------|
+| **Tempeh** | *[[Rhizopus oligosporus]]* | Solid-state, 24–48h | Whole legume bound by mycelium |
+| **Oncom** | *[[Neurospora crassa]]* | Solid-state, 24–48h | Press cake (okara, peanut) |
+| **Quorn** | *[[Fusarium venenatum]]* | Submerged continuous, 5 weeks | Pure mycelium biomass |
+| **Meati** | *[[Neurospora crassa]]* | Submerged batch, days | Pure mycelium biomass |
+
+Tempeh is the only one where the substrate (legume) is the primary protein source and the fungus serves primarily as a binder and nutritional enhancer. In mycoprotein products, the fungal biomass itself is the food.
+
+---
+
 ## Novel Substrates
 
 Research has evaluated over 25 substrates beyond soybean:
@@ -49,6 +70,15 @@ Research has evaluated over 25 substrates beyond soybean:
 | Mung bean (*Vigna radiata*) | 137.53 mg GAE/g DM polyphenol content |
 | Cowpea | 32.6% phytate reduction |
 | Cereals, algae, seeds | Various; several showed superior nutritional characteristics vs. soybean tempeh |
+
+---
+
+## Content Creator Notes
+
+Tempeh is a strong content angle for audiences interested in gut health, plant-based protein, or fermentation. Key hooks:
+- The B12 co-fermentation finding is genuinely novel and surprising
+- "25+ substrates beyond soy" challenges the assumption that tempeh = soybeans
+- The mechanical binding story connects to [[Myco-Materials]] — same principle, different application
 
 ---
 
