@@ -205,5 +205,7 @@ Amatoxins (alpha-amanitin primarily) are bicyclic octapeptides that **irreversib
 - [[Extraction Methods]] — quality control; MoG vs. fruiting body
 - [[Psilocybin Research]] — clinical landscape, legal status
 - [[Nutritional Profiles]] — chitin, vitamin D, general nutrition
+- [[Psychedelic Therapy Protocols]] — clinical safety frameworks and contraindication screening
+- [[Psychedelic Legal Landscape]] — legal status governing psilocybin access and research
 
 ## Sources

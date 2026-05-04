@@ -124,6 +124,10 @@ Fungal biomass is a critical resource in soil food webs:
 | Biocontrol | Competition, antibiosis, mycoparasitism | Agriculture, natural plant communities |
 | Food web support | Fungal biomass as food resource | Soil invertebrates, predators, decomposer chains |
 
+## Related Notes
+
+- [[Environmental DNA]] — eDNA methods for detecting fungal community composition in soil
+
 ## Sources
 
 - Rillig, M.C. & Mummey, D.L. (2006). Mycorrhizas and soil structure. *New Phytologist*, 171(1), 41–53.

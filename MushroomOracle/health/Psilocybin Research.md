@@ -195,5 +195,8 @@ The therapeutic effects of psilocybin involve multiple overlapping neuroplastic 
 - [[Safety and Contraindications]] — SSRI/SNRI interactions, lithium contraindication, MAOIs
 - [[Beta-Glucans]] — for comparative context on mushroom health compounds
 - [[Extraction Methods]] — N/A for psilocybin therapeutic use (not consumed as supplement)
+- [[Microdosing Evidence]] — detailed analysis of microdosing research and placebo-controlled data
+- [[Psychedelic Therapy Protocols]] — clinical session structure, set and setting, therapist training
+- [[Psychedelic Legal Landscape]] — jurisdiction-by-jurisdiction legal and regulatory status
 
 ## Sources

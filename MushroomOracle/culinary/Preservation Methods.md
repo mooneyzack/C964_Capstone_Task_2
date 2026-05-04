@@ -265,4 +265,4 @@ Converting dried mushrooms to powder produces an ultra-concentrated, shelf-stabl
 | Pressure canning | 2–5 years | Cooked/soft | Pressure canner ($100–400+) | Long-term pantry storage |
 | Powder | 6–24 months | Extremely concentrated | Dehydrator + spice grinder | Umami seasoning |
 
-*See also: [[Flavor Profiles]], [[Cooking Techniques]], [[Mushroom Pairings]]*
+*See also: [[Flavor Profiles]], [[Cooking Techniques]], [[Mushroom Pairings]], [[Umami Science]], [[Mushroom Food Ingredients]]*

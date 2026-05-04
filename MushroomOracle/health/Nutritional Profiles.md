@@ -111,5 +111,8 @@ Protein quality metrics:
 - [[Cordycepin]] — bioactive nucleoside in cordyceps
 - [[Extraction Methods]] — how preparation affects nutrient availability
 - [[Safety and Contraindications]] — drug interactions, heavy metals, allergens
+- [[Mycoprotein]] — fungal protein production and nutritional comparison (Quorn, novel platforms)
+- [[Tempeh and Rhizopus]] — traditional fermented fungal protein; amino acid and micronutrient context
+- [[Mushroom Food Ingredients]] — commercial mushroom-derived food ingredients and nutritional applications
 
 ## Sources

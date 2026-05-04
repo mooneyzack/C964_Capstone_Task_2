@@ -52,5 +52,7 @@ Clamp connections are visible by light microscopy and their presence is a reliab
 - [[Fruiting Body Anatomy]] — hyphae as the building blocks of fruiting bodies
 - [[Substrates]] — how mycelium colonizes and digests growth media
 - [[Common Mycorrhizal Networks]] — mycelial networks in ecological context
+- [[Fungal Biocomputing]] — electrical signaling and information processing in mycelial networks
+- [[Mushroom Food Ingredients]] — mycelium-derived ingredients in food manufacturing
 
 ## Sources

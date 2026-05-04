@@ -66,5 +66,6 @@ Spore print color cannot identify a mushroom in isolation but is essential in co
 - [[Mating and Reproduction]] — sexual vs. asexual spore production
 - [[Fruiting Body Anatomy]] — basidia and hymenium where basidiospores form
 - [[Spore Prints]] — identification application of spore color
+- [[Environmental DNA]] — detecting fungal spore presence via eDNA metabarcoding
 
 ## Sources

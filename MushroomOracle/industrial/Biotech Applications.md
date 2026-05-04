@@ -234,6 +234,9 @@ Standard CRISPR-Cas9 works in filamentous fungi but requires adaptation: transfo
 - [[Pleurotus ostreatus]] — lovastatin, enzyme production, mycoprotein context
 - [[Beta-Glucans]] — immunomodulatory polysaccharides; pharmaceutical context
 - [[Cordycepin]] — pharmaceutical nucleoside from *Cordyceps*
+- [[Koji Fermentation]] — deep dive on *Aspergillus oryzae* fermentation science and applications
+- [[Precision Fermentation]] — engineered microbial production of target compounds
+- [[Mycoprotein]] — fungal protein production platforms beyond Quorn
 
 ---
 

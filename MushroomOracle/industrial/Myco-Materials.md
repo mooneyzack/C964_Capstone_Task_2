@@ -176,6 +176,8 @@ Key producing fungi include *Rhizopus arrhizus*, *Mucor rouxii*, and *Aspergillu
 - [[Fungal Dyes]] — other sustainable material applications
 - [[Wood Decay]] — ecological role of wood-decaying fungi; same species groups used in materials
 - [[Decomposition and Carbon Cycling]] — carbon accounting context for myco-material sustainability claims
+- [[Mycelium Construction]] — structural building applications and architectural composites
+- [[Fungal Biocomputing]] — information processing and signaling in mycelial networks
 
 ---
 

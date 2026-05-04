@@ -217,5 +217,7 @@ No single character is sufficient. A white-gilled mushroom without a volva could
 - [[Habitat Guide]] — substrate and habitat associations
 - [[Fruiting Body Anatomy]] — anatomical terminology
 - [[Spore Biology]] — spore biology and dispersal
+- [[DNA Barcoding]] — molecular identification when morphology is ambiguous
+- [[Citizen Science Platforms]] — community platforms for collaborative identification and reporting
 
 ## Sources

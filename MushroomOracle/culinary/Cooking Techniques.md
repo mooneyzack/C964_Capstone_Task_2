@@ -231,4 +231,4 @@ Steaming preserves the most delicate flavors but does not produce Maillard brown
 | Match species to method | Delicate (enoki, oyster) = quick high heat; dense (lion's mane, king oyster) = sustained heat |
 | Size matters for cook time | Thick slabs need longer heat; thin slices cook in 2–3 minutes |
 
-*See also: [[Flavor Profiles]], [[Preservation Methods]], [[Mushroom Pairings]], [[Safety and Contraindications]]*
+*See also: [[Flavor Profiles]], [[Preservation Methods]], [[Mushroom Pairings]], [[Safety and Contraindications]], [[Umami Science]], [[Koji Fermentation]]*

@@ -66,5 +66,7 @@ The **polyphasic approach** — combining morphological, biochemical, ecological
 - [[Basidiomycota]]
 - [[Ascomycota]]
 - [[Minor Phyla]]
+- [[DNA Barcoding]] — ITS barcoding methodology and sequence-based species identification
+- [[Fungal Databases]] — public databases (UNITE, GenBank, MycoBank) for sequence-based classification
 
 ## Sources

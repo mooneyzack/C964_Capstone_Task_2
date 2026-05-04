@@ -200,6 +200,7 @@ The challenge across all fungal plastic degradation is rate — most studies dem
 - [[Pleurotus ostreatus]] — most deployable remediation species
 - [[Trametes versicolor]] — laccase and MnP applications
 - [[Phanerochaete chrysosporium]] — model research organism
+- [[Mycelium Construction]] — mycelium composites in structural and building applications
 
 ---
 

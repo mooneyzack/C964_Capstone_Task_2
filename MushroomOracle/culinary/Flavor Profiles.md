@@ -170,4 +170,4 @@ Mushroom umami comes from several free amino acids, primarily **glutamate** and 
 
 The combination of **dried shiitake + kombu (seaweed)** in Japanese dashi exploits the synergy between mushroom 5'-GMP and kombu glutamate to create a depth of flavor that exceeds either ingredient alone.
 
-*See also: [[Cooking Techniques]], [[Mushroom Pairings]], [[Nutritional Profiles]]*
+*See also: [[Cooking Techniques]], [[Mushroom Pairings]], [[Nutritional Profiles]], [[Umami Science]], [[Koji Fermentation]], [[Mushroom Food Ingredients]]*
